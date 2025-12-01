@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "藍ヨリ青ク",
+  "base_artist": "Ryushen",
+  "createdAt": "2025-12-01T20:35:24.459517Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "藍より青く",
+      "artist": "Plastic Tree",
+      "has_synced": false,
+      "path": "select/pl_01_藍より青く_Plastic_Tree.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "藍より青く",
+      "artist": "Plastic Tree",
+      "has_synced": false,
+      "path": "select/pl_02_藍より青く_Plastic_Tree.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "藍ヨリ青ク",
+      "artist": "Plastic Tree",
+      "has_synced": false,
+      "path": "select/pl_03_藍ヨリ青ク_Plastic_Tree.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "藍より青く",
+      "artist": "Plastic Tree",
+      "has_synced": false,
+      "path": "select/pl_04_藍より青く_Plastic_Tree.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "藍ヨリ青ク",
+      "artist": "Plastic Tree",
+      "has_synced": false,
+      "path": "select/pl_05_藍ヨリ青ク_Plastic_Tree.txt"
+    }
+  ]
+}
